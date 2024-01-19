@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "circular-jet-411722",
+  "private_key_id": "a909f3690f40937065c013b2ae18aabba80ba4b5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD5Ml5NY02vVuZx\nHt9j8jJcAIZ8Dx/A4OzcQdbF1hstetdc05QkMaG9avli897W3vXFAUZhbq9SCnKw\nUK2eP0NSf6KxagnXnDdy+pmAvVV+tClxrrcOyp5BX6xWHPWrm7mZx0Ku3NAzgmSj\nL0u2HOARSqxV+kxbGzAxj9LiMP/lepGA91Mp9GXz1QMibc4tC1ymgnNrHTp1uzi9\nbUqWVdTZdzpUHrctQLtlpdaC2zkKytTZCtJEv4iKzqw+dzNFhu9kotYuOL1+QQis\nufIaPerEofnGmgQzWLcMrvMHVGBaYFfQCdM2CbGoKuPqgoaMleXDa4ASO3t8UJqK\n4LjDum+HAgMBAAECggEASnZJhXhZ2z3tR/oAqH3TnHgvt1xRkbHkNQCba6xJnLJr\nLfqu9o26Fb6kXHQgrzYaXE7AOBb53lru4E6LQpEGzd0DwV29KSctznahbb2lkWHG\nTIj3fD0BQumStnya0DeNIy1OeK/Uqr+Y0MYuKnHAZopYqqxLKqIaKYUfb6VSocAC\nTky1+wzdl1sz6Fa0NmYNEi/wzuEte6wEn7CuLiOuQTpn2zYwZ7acIn3O1st1XASX\nDl7rSklotu4e/YTWrv5ayvRMhOMbb85YE4F+2Ih+NZWb3BCpZqeUKq5YAD07FEeG\nKq1unZzVKqsX5uyZ3/LP9Um2ZmXC6RDxIxkg+PAHYQKBgQD9HWMybY4aQJ5dqi2X\nLxRw/kSumBTcniqFc2zLjWm6XWD5EJIrNycoNVrZyBPWyfgP2SrLP35LDHWTt23/\nlnjqnTR9cbR8fIemqnpf7W6JcgTux3Nob5d+PZq1KLyOV7HSOq9Snn2iwzl0Outn\nflEmrK7I0YCS8njdSm8Ey/dy9wKBgQD8CYwzxdBYU0N3k/To3nt7trZjspLdmign\nuu6Mnp42Q93EbQcUs5zWqvrLuctlItKL3B85gQr52gcvJdFJs0AkREyI6Abo83pZ\nNoFE48GUMzqFto1TmZiU5tab09TQEa5fRzYDUSiXiQbKFRrymhIUEn4uRu/99ByM\n8rYSUyAz8QKBgG61gOLYqlPvOZVsTt6WmBFIFdBr8owAnkaaktaBduIt37Fwvw4p\n5HWgyKkC6zKCSn7cFOyrS9kVjQPcMj+dmCu+MOxBZJkies66OCZnGncBqQirsl3W\nmWN9HILqW3bDAqMaSf8QFZGwZBvjfX1Z8bLByv1JLTyY06au3NozQHtHAoGBAM8Y\nnU6xXYgmKsroFZb/sWGveeEkC8/xastyq696arBWRbSwjd/x0o8GAXxDV6Dr4yuv\nHS0oHre88qhIH9e6ZZsnT+gzF/J0lnUV91R+/UJkcdMLdMdb72dy4qc6gaTS0oBR\nyE0jdAJIQv7sJq9v8Cj0JSCrg2oeGxOqH/egvFZRAoGASwu9D7QKaNf4vOOFPxS7\nvZRlZCLDlhLLBOQkbbFR3xz4N0M77lAmDrjU4bkYX0CjuXAzoNfxvWrA16bhZ15X\nnDEyFyr7KbBxi2azHpn5jg/wLt+ThqvVnBXna7Fc0ZhhPMVFlw9dKv9qW8vCVnCa\n8I1mTVwx0j8LuTa9JlZ1eF8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "talk-gpt@circular-jet-411722.iam.gserviceaccount.com",
+  "client_id": "102965864880808323444",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/talk-gpt%40circular-jet-411722.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
